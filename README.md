@@ -1,5 +1,5 @@
 # Yolo_image_OD
-Here we are detecting objects from the coco dataset using YOLO V3 network and OpenCV DNN library.
+Here we are detecting objects from an image using the coco dataset and YOLO V3 network.
 
 Hope you like it..!!
 
